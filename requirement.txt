@@ -1,5 +1,0 @@
-python==3.10.14
-streamlit
-pandas
-plotly
-sqlite3
